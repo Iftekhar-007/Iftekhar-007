@@ -46,7 +46,7 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 ## 🌍 Connect With Me  
 <p>
   <a href="https://github.com/Iftekhar-007" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/md-iftekhar7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
