@@ -64,10 +64,6 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
----
 
 ⭐ **_"Code is like humor — when you have to explain it, it’s bad."_**  
 
