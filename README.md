@@ -30,9 +30,7 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jquery" />
 </p>
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
+
 
 ### ⚙️ Backend  
 <p>
