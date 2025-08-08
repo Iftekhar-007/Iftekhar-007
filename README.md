@@ -57,10 +57,16 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar-007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
+
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftekhar-007&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 ---
 
 ⭐ **_"Code is like humor — when you have to explain it, it’s bad."_**  
