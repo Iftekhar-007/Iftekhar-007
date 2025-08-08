@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner -->
-![Banner](https://i.ibb.co/your-banner-image.png)  
+![Banner](https://i.ibb.co.com/nVPpDyx/Beige-Brown-Simple-Personal-Linked-In-Banner.png)  
 <!-- Replace with your own banner direct link -->
 
 # Hi, I'm **Iftekhar** 👋  
