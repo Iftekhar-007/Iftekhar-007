@@ -17,8 +17,8 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 ---
 
 ## 🔥 Current Activities  
-- 🚀 Exploring **Next.js**  
-- 🛠️ Working on a **Tourism Website**  
+- 🚀 Exploring **Next.js**
+- 🚀 Exploring PHP 
 - 📚 Improving **WordPress Development Skills**  
 - 💻 Building **MERN Stack Projects**  
 
