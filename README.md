@@ -28,7 +28,7 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,bootstrap,jquery" />
 </p>
 
 ### ⚙️ Backend  
@@ -38,7 +38,7 @@ Currently, I’m blending creativity and logic to craft solutions that are both 
 
 ### 🛠 Tools & Others  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,stripe" />
 </p>
 
 ---
