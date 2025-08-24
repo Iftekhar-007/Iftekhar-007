@@ -1,7 +1,7 @@
 
 
 <!-- Banner -->
-![Banner](https://i.ibb.co.com/nVPpDyx/Beige-Brown-Simple-Personal-Linked-In-Banner.png)  
+![Banner](https://i.ibb.co.com/Z622z55L/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png)  
 <!-- Replace with your own banner direct link -->
 
 # Hi, I'm **Iftekhar** 👋  
